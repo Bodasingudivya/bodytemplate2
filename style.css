@@ -1,0 +1,253 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.main{
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(214, 236, 236);
+}
+.sub{
+    margin-top: 80px;
+    margin-left: 150px;
+    float: left;
+}
+.sub h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub button{
+    padding: 5px 10px;
+    background-color: transparent;
+}
+.sub button:hover{
+    transform: scale(1.1);
+    background-color: blueviolet;
+    color: white;
+
+}
+.sub span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub img{
+    height: 350px;
+    width: 100%;
+    margin-left: 90px;
+}
+.pragna{
+    height: 390px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(235, 230, 240);
+}
+.praggy{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.praggy p{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.praggy h1{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.praggy1{
+    border: 1px solid red;
+    height: 110px;
+    width: 22%;
+    float: left;
+    margin-left: 120px;
+    background-color: white;
+}
+.pragna button{
+    margin-top: 40px;
+    margin-right: 150px;
+    margin-left: 700px;
+    padding: 5px 10px;
+    background-color: transparent;
+}
+.pragna button:hover{
+    transform: scale(1.1);
+    background-color:green;
+}
+.tulasi{
+    height: 440px;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+.tul{
+    margin-left: 110px;
+    margin-top: 50px;
+    float: left;
+}
+.tul p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tul h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.tul span{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tul img{
+    margin-left: 50px;
+}
+.umadevi{
+    height: 490px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(235, 230, 240);
+
+}
+.uma{
+    text-align: center;
+    margin-top: 20px;
+}
+.uma p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.uma h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.uma1{
+    height: 280px;
+    width: 18%;
+    /* border: 1px solid red; */
+    float: left;
+    margin-left: 84px;
+    margin-top: 30px;
+}
+.uma1 img{
+    border-radius: 90px;
+    margin-left: 80px;
+}
+.uma1 h4{
+    text-align: center;
+}
+.uma1 p{
+    text-align: center;
+}
+.uma1 button{
+    margin-left: 95px;
+    padding: 5px 10px;
+    background-color:rgb(165, 102, 225);
+}
+.uma1 button:hover{
+    transform: scale(1.1);
+    background-color:rgb(66, 126, 66);
+    color: white;
+
+}
+.mallika{
+    height: 460px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(235, 230, 240);
+
+}
+.siri{
+    margin-top: 50px;
+    margin-left: 100px;
+    float: left;
+    
+}
+.siri img{
+    margin-left: 10px;
+}
+.teddy button{
+    margin-top: 40px;
+    margin-left:300px;
+    padding: 5px 10px;
+    background-color: transparent;
+}
+.teddy button:hover{
+    transform: scale(1.1);
+    background-color: rgb(139, 82, 193);
+    color: white;
+
+}
+.divya{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(236, 228, 218);
+}
+.diya{
+    margin-top: 40px;
+    text-align: center;
+}
+.diya i{
+    font-size: 30px;
+}
+.box{
+    height: 110px;
+    width: 100%;
+    /* border: 1px solid red; */
+    
+}
+.dia{
+    margin-left: 120px;
+    margin-top: 20px;
+    float: left;
+}
+.dia1{
+    float: left;
+    margin-left: 90px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.dia2 button{
+    margin-left: 150px;
+    margin-top: 40px;
+    padding: 5px 20px;
+    border-radius: 20px;
+
+}
+.abc{
+    height: 460px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color:black;
+}
+.def{
+    margin-top: 50px;
+    margin-left: 150px;
+    float: left;
+    color: white;
+}
+.def i{
+    font-size: 30px;
+   color: yellow;
+}
+.pqr{
+    height: 500px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-color: rgb(235, 230, 240);
+
+
+}
+.mnop{
+    text-align: center;
+    margin-top: 30px;
+}
+.klmn{
+    height: 310px;
+    width: 25%;
+    /* border: 1px solid red; */
+    float: left;
+    margin-top: 30px;
+    margin-left: 90px;
+    text-align: center;
+}
+.klmn button{
+    padding: 5px 30px;
+    background-color: rgb(157, 85, 225);
+}
+.klmn button:hover{
+    transform: scale(1.1);
+    background-color:rgb(155, 80, 225);
+}
